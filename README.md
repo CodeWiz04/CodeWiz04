@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Shafan Ali
 
-🎓 CS Student @ FAST-NU | 💻 Full-Stack Developer | 🧠 Logic Crafter | ⚙️ Assembly & C++ Enthusiast  
+🎓 CS Student @ FAST-NU | 💻 Full-Stack Developer | 🧠 Logic Crafter | 
 📍 Lahore, Pakistan | 🌐 CodeWiz | 🚀 Passionate about turning logic into real-world solutions
 
 ---
