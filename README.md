@@ -1,4 +1,4 @@
-# Create a GitHub profile README.md file content based on user's CV, projects, and skills
+
 
 github_profile_readme = """\
 # 👋 Hi, I'm Muhammad Shafan Ali
