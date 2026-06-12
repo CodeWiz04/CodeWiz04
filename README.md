@@ -130,10 +130,6 @@ STATUS      : 🟢 ONLINE — Open to Opportunities & Collaborations
 
 <div align="center">
 
-[![Shafan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWiz04&bg_color=0a0a0f&color=00d4ff&line=8b5cf6&point=f59e0b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
 ![Snake animation](https://raw.githubusercontent.com/CodeWiz04/CodeWiz04/output/github-contribution-grid-snake-dark.svg)
 
 </div>
