@@ -1,26 +1,167 @@
-# 👋 Hi, I'm Muhammad Shafan Ali
+<div align="center">
 
-🎓 CS Student @ FAST-NU | 💻 Full-Stack Developer | 🧠 Logic Crafter | 
-📍 Lahore, Pakistan | 🌐 CodeWiz | 🚀 Passionate about turning logic into real-world solutions
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    ███████╗██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗              ║
+║    ██╔════╝██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║              ║
+║    ███████╗███████║███████║█████╗  ███████║██╔██╗ ██║              ║
+║    ╚════██║██╔══██║██╔══██║██╔══╝  ██╔══██║██║╚██╗██║              ║
+║    ███████║██║  ██║██║  ██║██║     ██║  ██║██║ ╚████║              ║
+║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝              ║
+║                                                                      ║
+║              [ MUHAMMAD SHAFAN ALI — SYSTEM ONLINE ]                ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Logic+Crafter+%26+Problem+Solver+%F0%9F%A7%A0;CS+Student+%40+FAST-NU+Lahore+%F0%9F%8E%93;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
+
+<br/>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=CodeWiz04&style=for-the-badge&color=00d4ff&label=SYSTEM+VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/CodeWiz04?style=for-the-badge&color=8b5cf6&labelColor=0a0a0f&label=FOLLOWERS)](https://github.com/CodeWiz04)
+
+</div>
 
 ---
-## 💻 Tech Stack
 
-- **Languages**: C++, C, Assembly, Python, JavaScript
-- **Backend**: Node.js
-- **Database**: Microsoft SQL Server (T-SQL)
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Tools**: Git, SFML, VS Code, DOSBox
+<div align="center">
 
-  ---
+## ⚡ `> INITIATING BOOT SEQUENCE...`
 
-## 📫 Contact Me
+```
+[████████████████████████████████████████] 100%
+ ✔ Identity Module ............ LOADED
+ ✔ Skill Matrix ............... LOADED
+ ✔ Project Database ........... LOADED
+ ✔ Social Protocols ........... LOADED
+ ✔ Collaboration Interface .... READY
+```
 
-- 📧 Email: [muhammadshafan2004@gmail.com](mailto:muhammadshafan2004@gmail.com)
-- 🧑‍💻 GitHub: [CodeWiz04](https://github.com/CodeWiz04)
-- 🔗 LinkedIn: [Shafan Ali](https://www.linkedin.com/in/muhammad-shafan-7b0053308/)
+</div>
 
 ---
 
-⭐️ _“Never stop learning because life never stops teaching.”_  
-✨ Thanks for visiting my profile! Feel free to explore my work or collaborate!
+## 🧬 `PROFILE.exe — WHO AM I?`
+
+```yaml
+NAME        : Muhammad Shafan Ali
+ALIAS       : CodeWiz
+LOCATION    : Lahore, Pakistan 🌏
+INSTITUTE   : FAST-NU (National University of Computer & Emerging Sciences)
+DESIGNATION : CS Student × Full-Stack Developer × Logic Crafter
+MISSION     : Transform complex logic into elegant, real-world solutions
+STATUS      : 🟢 ONLINE — Open to Opportunities & Collaborations
+```
+
+> *"Any sufficiently advanced code is indistinguishable from magic."*
+
+---
+
+## 🛠️ `TECH_STACK.sys — ARSENAL`
+
+<div align="center">
+
+### ⚔️ LANGUAGES
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### 🖥️ FRONTEND
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ BACKEND & DATABASE
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔧 TOOLS & ENVIRONMENT
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
+![DOSBox](https://img.shields.io/badge/DOSBox-000000?style=for-the-badge&logo=dosbox&logoColor=white)
+
+</div>
+
+---
+
+## 📊 `STATS.log — GITHUB METRICS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWiz04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=8b5cf6&text_color=e2e8f0"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWiz04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=e2e8f0"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodeWiz04&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 `ACHIEVEMENTS.db`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌐 `ACTIVITY.feed — CONTRIBUTION GRID`
+
+<div align="center">
+
+[![Shafan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWiz04&bg_color=0a0a0f&color=00d4ff&line=8b5cf6&point=f59e0b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🔗 `CONNECT.protocol — FIND ME IN THE GRID`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadshafan2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWiz04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shafan-7b0053308/)
+
+<br/>
+
+```
+>> PING CodeWiz04... ✔ HOST REACHABLE
+>> AWAITING COLLABORATION REQUEST...
+>> HANDSHAKE PROTOCOL: OPEN
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║   Thanks for visiting my terminal!  🚀       ║
+║   Let's build something legendary together.  ║
+╚══════════════════════════════════════════════╝
+```
+
+*"The best error message is the one that never shows up."*
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+
+</div>
