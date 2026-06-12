@@ -15,7 +15,7 @@
 ```
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Logic+Crafter+%26+Problem+Solver+%F0%9F%A7%A0;CS+Student+%40+FAST-NU+Lahore+%F0%9F%8E%93;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Logic+Crafter+%26+Problem+Solver+%F0%9F%A7%A0;CS+Student+%40+FAST-NU+Lahore+%F0%9F%8E%93;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -33,6 +33,7 @@
 ```
 [████████████████████████████████████████] 100%
  ✔ Identity Module ............ LOADED
+ ✔ AI/ML Neural Core .......... LOADED
  ✔ Skill Matrix ............... LOADED
  ✔ Project Database ........... LOADED
  ✔ Social Protocols ........... LOADED
@@ -50,8 +51,9 @@ NAME        : Muhammad Shafan Ali
 ALIAS       : CodeWiz
 LOCATION    : Lahore, Pakistan 🌏
 INSTITUTE   : FAST-NU (National University of Computer & Emerging Sciences)
-DESIGNATION : CS Student × Full-Stack Developer × Logic Crafter
-MISSION     : Transform complex logic into elegant, real-world solutions
+DESIGNATION : AI/ML Engineer × Full-Stack Developer × CS Student
+FOCUS       : Machine Learning · Neural Networks · Intelligent Systems
+MISSION     : Engineer intelligent systems that think, learn, and evolve
 STATUS      : 🟢 ONLINE — Open to Opportunities & Collaborations
 ```
 
@@ -62,6 +64,17 @@ STATUS      : 🟢 ONLINE — Open to Opportunities & Collaborations
 ## 🛠️ `TECH_STACK.sys — ARSENAL`
 
 <div align="center">
+
+### 🤖 AI / ML — PRIMARY FOCUS
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### ⚔️ LANGUAGES
 
