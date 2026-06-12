@@ -124,14 +124,6 @@ STATUS      : 🟢 ONLINE — Open to Opportunities & Collaborations
 
 ---
 
-## 🏆 `ACHIEVEMENTS.db`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz04&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## 🌐 `ACTIVITY.feed — CONTRIBUTION GRID`
