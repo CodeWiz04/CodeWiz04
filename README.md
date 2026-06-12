@@ -128,7 +128,7 @@ STATUS      : 🟢 ONLINE — Open to Opportunities & Collaborations
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWiz04&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -148,7 +148,13 @@ STATUS      : 🟢 ONLINE — Open to Opportunities & Collaborations
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadshafan2004@gmail.com)
+### 📧 EMAIL — CLICK TO SEND
+
+```
+muhammadshafan2004@gmail.com
+```
+
+[![Email](https://img.shields.io/badge/Send%20Email-muhammadshafan2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadshafan2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWiz04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shafan-7b0053308/)
 
