@@ -14,8 +14,6 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00D4FF&height=220&section=header&text=Shafan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50)
-
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Logic+Crafter+%26+Problem+Solver+%F0%9F%A7%A0;CS+Student+%40+FAST-NU+Lahore+%F0%9F%8E%93;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
