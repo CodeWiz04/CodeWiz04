@@ -1,5 +1,19 @@
 <div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    ███████╗██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗              ║
+║    ██╔════╝██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║              ║
+║    ███████╗███████║███████║█████╗  ███████║██╔██╗ ██║              ║
+║    ╚════██║██╔══██║██╔══██║██╔══╝  ██╔══██║██║╚██╗██║              ║
+║    ███████║██║  ██║██║  ██║██║     ██║  ██║██║ ╚████║              ║
+║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝              ║
+║                                                                      ║
+║              [ MUHAMMAD SHAFAN ALI — SYSTEM ONLINE ]                ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00D4FF&height=220&section=header&text=Shafan&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50)
 
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
