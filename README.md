@@ -1,147 +1,138 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    ███████╗██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗              ║
-║    ██╔════╝██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║              ║
-║    ███████╗███████║███████║█████╗  ███████║██╔██╗ ██║              ║
-║    ╚════██║██╔══██║██╔══██║██╔══╝  ██╔══██║██║╚██╗██║              ║
-║    ███████║██║  ██║██║  ██║██║     ██║  ██║██║ ╚████║              ║
-║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝              ║
-║                                                                      ║
-║              [ MUHAMMAD SHAFAN ALI — SYSTEM ONLINE ]                ║
-╚══════════════════════════════════════════════════════════════════════╝
+```console
+ ███████╗██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
+ ██╔════╝██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+ ███████╗███████║███████║█████╗  ███████║██╔██╗ ██║
+ ╚════██║██╔══██║██╔══██║██╔══╝  ██╔══██║██║╚██╗██║
+ ███████║██║  ██║██║  ██║██║     ██║  ██║██║ ╚████║
+ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Logic+Crafter+%26+Problem+Solver+%F0%9F%A7%A0;CS+Student+%40+FAST-NU+Lahore+%F0%9F%8E%93;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=560&height=30&lines=%24+AI+%2F+ML+Engineer;%24+Full-Stack+Developer;%24+Logic+Crafter+%26+Problem+Solver;%24+CS+Student+%40+FAST-NU+Lahore;%24+Building+the+future%2C+one+commit+at+a+time)](https://github.com/CodeWiz04)
 
 </div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=CodeWiz04&style=for-the-badge&color=00d4ff&label=SYSTEM+VISITORS" />
-<a href="https://github.com/CodeWiz04"><img src="https://img.shields.io/github/followers/CodeWiz04?style=for-the-badge&color=8b5cf6&labelColor=0a0a0f&label=FOLLOWERS" /></a>
-</p>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-## ✨ About Me
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+```console
+shafan@fast-nu:~$ whoami
+```
 
 ```yaml
-Name        : Muhammad Shafan Ali
-Alias       : CodeWiz
-Location    : Lahore, Pakistan 🌏
-Institute   : FAST-NU (National University of Computer & Emerging Sciences)
-Focus       : Machine Learning · Neural Networks · Intelligent Systems
-Mission     : Engineer intelligent systems that think, learn, and evolve
-Status      : 🟢 ONLINE — Open to Opportunities & Collaborations
+name        : Muhammad Shafan Ali
+alias       : CodeWiz
+location    : Lahore, Pakistan
+institute   : FAST-NU (National University of Computer & Emerging Sciences)
+focus       : Machine Learning · Neural Networks · Intelligent Systems
+mission     : Engineer intelligent systems that think, learn, and evolve
+status      : ● online — open to opportunities & collaborations
 ```
 
-> *"Any sufficiently advanced code is indistinguishable from magic."* ⚡
-
-<br clear="right"/>
-
 ---
 
-## 🚀 Tech Arsenal
-
-<div align="center">
-
-### 🤖 AI / ML — Primary Focus
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,py&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-### ⚔️ Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,py,js&theme=dark" />
-
-### 🖥️ Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
-### 🔧 Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" />
-<img src="https://img.shields.io/badge/DOSBox-000000?style=for-the-badge&logo=dosbox&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Universe
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeWiz04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=8b5cf6&text_color=e2e8f0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWiz04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=e2e8f0"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodeWiz04&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-### 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodeWiz04&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" />
-
-</div>
-
----
-
-## 🌐 Contribution Grid
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/CodeWiz04/CodeWiz04/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🔗 Let's Connect
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
-
-[![Email](https://img.shields.io/badge/Send%20Email-muhammadshafan2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadshafan2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWiz04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shafan-7b0053308/)
-
-<br/>
-
-```
->> PING CodeWiz04... ✔ HOST REACHABLE
->> AWAITING COLLABORATION REQUEST...
->> HANDSHAKE PROTOCOL: OPEN
+```console
+shafan@fast-nu:~$ tree ~/skills
 ```
 
-</div>
+```console
+~/skills
+├── ai-ml/                  # primary focus
+│   ├── tensorflow
+│   ├── pytorch
+│   ├── scikit-learn
+│   ├── keras
+│   ├── numpy
+│   ├── pandas
+│   ├── opencv
+│   └── jupyter
+├── languages/
+│   ├── c++
+│   ├── c
+│   ├── python
+│   └── javascript
+├── web/
+│   ├── html
+│   ├── css
+│   ├── react
+│   ├── node.js
+│   └── microsoft-sql-server
+└── tools/
+    ├── git
+    ├── vscode
+    ├── sfml
+    └── dosbox
+
+4 directories, 21 files
+```
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,py,cpp,c,js,html,css,react,nodejs,git,vscode&theme=dark" alt="skills" />
+</p>
+
+---
+
+```console
+shafan@fast-nu:~$ git stats --user CodeWiz04
+```
 
 <div align="center">
 
-### Thanks for visiting! 🚀 Let's build something legendary together.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeWiz04&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWiz04&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9" alt="Top languages" />
 
-*"The best error message is the one that never shows up."*
+<img src="https://streak-stats.demolab.com?user=CodeWiz04&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2C5364,100:0F2027&height=150&section=footer&animation=fadeIn)
+<img src="https://github-profile-trophy.vercel.app/?username=CodeWiz04&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1" alt="Trophies" />
 
 </div>
+
+---
+
+```console
+shafan@fast-nu:~$ cat ~/.contributions
+```
+
+<div align="center">
+
+![contribution snake](https://raw.githubusercontent.com/CodeWiz04/CodeWiz04/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<!--
+  PROJECTS: add your own repos here when ready. Example:
+
+  ```console
+  shafan@fast-nu:~$ ls -l ~/projects
+  ```
+  <a href="https://github.com/CodeWiz04/REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeWiz04&repo=REPO_NAME&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950" />
+  </a>
+-->
+
+```console
+shafan@fast-nu:~$ ./connect.sh
+```
+
+<pre>
+<b>[ok]</b> email     →  <a href="mailto:muhammadshafan2004@gmail.com">muhammadshafan2004@gmail.com</a>
+<b>[ok]</b> github    →  <a href="https://github.com/CodeWiz04">github.com/CodeWiz04</a>
+<b>[ok]</b> linkedin  →  <a href="https://www.linkedin.com/in/muhammad-shafan-7b0053308/">linkedin.com/in/muhammad-shafan</a>
+</pre>
+
+```console
+shafan@fast-nu:~$ ping CodeWiz04
+64 bytes from codewiz04: host reachable, time=0.1ms
+awaiting collaboration request...
+handshake protocol: open
+
+shafan@fast-nu:~$ echo Thanks for visiting. Lets build something legendary together.
+Thanks for visiting. Let's build something legendary together.
+
+shafan@fast-nu:~$ █
+```
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=CodeWiz04&style=flat-square&color=3fb950&label=VISITORS&labelColor=0d1117" alt="visitors" />
+<a href="https://github.com/CodeWiz04"><img src="https://img.shields.io/github/followers/CodeWiz04?style=flat-square&color=3fb950&labelColor=0d1117&label=FOLLOWERS" alt="followers" /></a>
+</p>
