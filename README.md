@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:1f6feb&height=200&section=header&text=Muhammad%20Shafan%20Ali&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammad Shafan Ali" />
+```console
+ ███████╗██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
+ ██╔════╝██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+ ███████╗███████║███████║█████╗  ███████║██╔██╗ ██║
+ ╚════██║██╔══██║██╔══██║██╔══╝  ██╔══██║██║╚██╗██║
+ ███████║██║  ██║██║  ██║██║     ██║  ██║██║ ╚████║
+ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
 <a href="https://github.com/CodeWiz04">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=600&height=36&lines=Engineering+intelligent+systems;Machine+Learning+%C2%B7+Neural+Networks;Logic+Crafter+%26+Problem+Solver;CS+Student+%40+FAST-NU+Lahore;Building+the+future%2C+one+commit+at+a+time" alt="Typing intro" />
